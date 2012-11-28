@@ -11,7 +11,7 @@ Supported Devices:
 Getting Started
 ---------------
 
-To initialize your local repository using the JBMiniProject trees, use a command like this:
+To initialize your local repository using the Old Xperia trees, use a command like this:
 
     repo init -u git://github.com/JBMiniProject/platform_manifest.git -b mr1-staging
 
