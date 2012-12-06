@@ -7,11 +7,11 @@
   <remote  name="github"
            fetch=".."
            review="review.cyanogenmod.org" />
-          
+
   <remote name="jbmp"
            fetch="https://github.com/JBMiniProject/"
            revision="jellybean" />
-           
+
   <remote name="oxt"
            fetch="https://github.com/OldXperiaTeam/"
            revision="mr1-staging" />
@@ -40,6 +40,7 @@
   <project path="development" name="CyanogenMod/android_development" />
   <project path="device/common" name="CyanogenMod/android_device_common" />
   <project path="device/semc/mimmi" name="android_device_semc_mimmi" revision="jellybean" remote="jbmp" />
+  <project path="device/semc/msm7x27-common" name="android_device_semc_msm7x27-common" revision="jellybean" remote="jbmp" />
   <project path="device/semc/robyn" name="android_device_semc_robyn" revision="jellybean" remote="jbmp" />
   <project path="device/semc/shakira" name="android_device_semc_shakira" revision="jellybean" remote="jbmp" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" remote="aosp" revision="jb-mr1-release" />
