@@ -24,7 +24,7 @@
            sync-c="true"
            sync-j="8" />
 
-  <project path="build" name="CyanogenMod/android_build">
+  <project path="build" name="android_build" revision="mr1-staging" remote="oxt">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
