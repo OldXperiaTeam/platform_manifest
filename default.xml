@@ -37,7 +37,6 @@
   <project path="dalvik" name="CyanogenMod/android_dalvik" />
   <project path="development" name="CyanogenMod/android_development" />
   <project path="device/common" name="CyanogenMod/android_device_common" />
-  <project path="device/semc/mimmi" name="android_device_semc_mimmi" revision="jellybean" remote="jbmp" />
   <project path="device/semc/msm7x27-common" name="android_device_semc_msm7x27-common" revision="mr1-staging" remote="oxt" />
   <project path="device/semc/robyn" name="android_device_semc_robyn" revision="mr1-staging" remote="oxt" />
   <project path="device/semc/shakira" name="android_device_semc_shakira" revision="mr1-staging" remote="oxt" />
