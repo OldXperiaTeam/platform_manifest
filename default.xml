@@ -251,7 +251,7 @@
   <project path="hardware/qcom/sensors" name="CyanogenMod/android_hardware_qcom_sensors" />
   <project path="hardware/qcom/wlan" name="CyanogenMod/android_hardware_qcom_wlan" />
   <project path="hardware/ril" name="CyanogenMod/android_hardware_ril" />
-  <project path="hardware/semc/msm7x27" name="android_hardware_semc_msm7x27" revision="jellybean" remote="jbmp" />
+  <project path="hardware/semc/msm7x27" name="android_hardware_semc_msm7x27" revision="mr1-staging" remote="oxt" />
   <project path="hardware/ti/fmradio" name="android_hardware_ti_fmradio" revision="jellybean" remote="jbmp" />
   <project path="hardware/samsung_slsi/exynos5" name="CyanogenMod/android_hardware_samsung_slsi_exynos5" />
   <project path="hardware/ti/omap3" name="CyanogenMod/android_hardware_ti_omap3" />
