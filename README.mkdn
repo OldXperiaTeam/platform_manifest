@@ -13,7 +13,7 @@ Getting Started
 
 To initialize your local repository using the Old Xperia trees, use a command like this:
 
-    repo init -u git://github.com/OldXperiaTeam/platform_manifest.git -b mr1-staging
+    repo init -u git://github.com/OldXperiaTeam/platform_manifest.git -b JBMP42
 
 Then to sync up:
 
