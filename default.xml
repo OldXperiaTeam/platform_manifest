@@ -39,7 +39,7 @@
   <project path="device/common" name="CyanogenMod/android_device_common" />
   <project path="device/semc/msm7x27-common" name="android_device_semc_msm7x27-common" remote="oxt" revision="mr1-staging" />
   <project path="device/semc/robyn" name="android_device_semc_robyn" remote="oxt" revision="mr1-staging" />
-  <project path="device/semc/shakira" name="android_device_semc_shakira" remote="oxt" revision="JBMP42" />
+  <project path="device/semc/shakira" name="android_device_semc_shakira" remote="oxt" revision="mr1-staging" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" remote="aosp" revision="jb-mr1-release" />
   <project path="external/aac" name="CyanogenMod/android_external_aac" />
   <project path="external/android-clat" name="CyanogenMod/android_external_android-clat" />
