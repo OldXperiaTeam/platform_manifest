@@ -24,6 +24,10 @@
            sync-c="true"
            sync-j="8" />
 
+  <notice>
+    You've successfully sync'd the Old Xperia Team's repos!
+  </notice>
+
   <project path="build" name="android_build" remote="oxt" revision="JBMP42">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
